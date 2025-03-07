@@ -29,7 +29,7 @@ Proyek ini bertujuan untuk menganalisis data bisnis guna mendapatkan wawasan, me
 │   ├── data-test      <- Data yang digunakan untuk menguji model
 │   └── hotel_bookings <- Data original yang belum diproses 
 │
-├── models             <- Model yang telah dilatih dan dievaluasi.
+├── model             <- Model yang telah dilatih dan dievaluasi.
 │
 ├── notebooks          <- Notebook Jupyter untuk eksplorasi dan analisis data.
 │
